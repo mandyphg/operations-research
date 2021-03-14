@@ -5,5 +5,5 @@ This study in to optimize the sheduled shifts given the required minimum staffs 
 
 The objective is to minimize the total number of staffs need to be hired.
 
-AMPL is used to solve the Linear Programming problem. The parameters are updated through Python API.
+AMPL is used to solve the Linear Programming problem. The parameters are updated using pythong through AMPL API.
 
